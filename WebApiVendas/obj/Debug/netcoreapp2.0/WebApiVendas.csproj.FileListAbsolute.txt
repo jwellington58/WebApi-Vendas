@@ -1,0 +1,10 @@
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\WebApi-Vendas\WebApiVendas\obj\Debug\netcoreapp2.0\WebApiVendas.csproj.CoreCompileInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\WebApi-Vendas\WebApiVendas\obj\Debug\netcoreapp2.0\WebApiVendas.AssemblyInfoInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\WebApi-Vendas\WebApiVendas\obj\Debug\netcoreapp2.0\WebApiVendas.AssemblyInfo.cs
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\WebApi-Vendas\WebApiVendas\bin\Debug\netcoreapp2.0\WebApiVendas.deps.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\WebApi-Vendas\WebApiVendas\bin\Debug\netcoreapp2.0\WebApiVendas.runtimeconfig.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\WebApi-Vendas\WebApiVendas\bin\Debug\netcoreapp2.0\WebApiVendas.runtimeconfig.dev.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\WebApi-Vendas\WebApiVendas\bin\Debug\netcoreapp2.0\WebApiVendas.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\WebApi-Vendas\WebApiVendas\bin\Debug\netcoreapp2.0\WebApiVendas.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\WebApi-Vendas\WebApiVendas\obj\Debug\netcoreapp2.0\WebApiVendas.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\WebApi-Vendas\WebApiVendas\obj\Debug\netcoreapp2.0\WebApiVendas.pdb
