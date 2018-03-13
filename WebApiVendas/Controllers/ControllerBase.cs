@@ -9,9 +9,9 @@ namespace WebApiVendas.Controllers
     public abstract class ControllerBase<T> : Controller where T : class
     {
         public RepositoryBase<T> _repository;
-        public ControllerBase()
+        public ControllerBase(DataContext context)
         {
-            _repository = new RepositoryBase<T>(new DataContext());
+            _repository = new RepositoryBase<T>(context);
         }
         [HttpGet]
         public virtual IQueryable<T> GetAll()
